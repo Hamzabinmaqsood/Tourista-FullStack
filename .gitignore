@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+venv/
+.env
+.env.*
+
+# Django
+media/
+staticfiles/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# React Native / Expo
+.expo/
+.expo-shared/
+android/.gradle/
+android/app/build/
+ios/build/
+Pods/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Secrets
+*.pem
+*.key
