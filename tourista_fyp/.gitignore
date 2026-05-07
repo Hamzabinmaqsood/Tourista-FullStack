@@ -1,0 +1,2 @@
+-e "venv/\n*.pyc\n__pycache__/\ndb.sqlite3\n.env" 
+".env" 
